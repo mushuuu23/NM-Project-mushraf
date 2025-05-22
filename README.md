@@ -9,7 +9,7 @@ Telco Churn Analysis is a project that analyzes and predicts customer churn rate
 To run this project in your local environment, follow these steps:
 
 ### Clone the project:
-git clone [repository-link]
+git clone [https://github.com/mushuuu23/NM-Project-mushraf.git]
 
 
 ### Install the necessary libraries:
